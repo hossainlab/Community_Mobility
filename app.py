@@ -43,7 +43,7 @@ st.write("""
 ### Organization and Source Code 
 
 * Organization: [Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh)](https://chiralbd.netlify.app/)
-* Source Code: https://github.com/hossainlab/Community_Report
+* Source Code: https://github.com/hossainlab/Community_Mobility
 """)
 
 
