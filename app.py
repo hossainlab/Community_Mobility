@@ -3,8 +3,8 @@ import pandas as pd
 import plotly.express as px 
 
 st.write("""
-# Bangladesh: COVID-19 Community Mobility Reports 
-By [Md. Jubayer Hossain]()
+# Bangladesh COVID-19 Community Mobility Reports 
+By [Md. Jubayer Hossain](https://jhossain.netlify.app/)
 
 This dashboard aims to provide insights into what has changed in response to policies aimed at fighting COVID-19. The reports chart movement trends by geography across different categories such as retail and recreation, groceries and pharmacies, parks, transit stations, workplace, and residential.
 
@@ -31,9 +31,8 @@ fig.update_xaxes(title_font_family="Arial")
 st.plotly_chart(fig) 
 
 
-
 st.write("""
-### Place categories
+### Place Categories
 - **Grocery & pharmacy**: Mobility trends for places like grocery markets, food warehouses, farmers markets, specialty food shops, drug stores, and pharmacies.
 - **Parks**: Mobility trends for places like local parks, national parks, public beaches, marinas, dog parks, plazas, and public gardens.
 - **Transit stations**: Mobility trends for places like public transport hubs such as subway, bus, and train stations.
